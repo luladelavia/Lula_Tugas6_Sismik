@@ -24,14 +24,16 @@ const int ledPin = 12;
 
 void setup() {
   // put your setup code here, to run once:
-  pinMode(ledPin, OUTPUT);
   Serial.begin(9600);
+  Serial.print("Hello World");
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
 }
 ```
+
+
 
 <h2></h2>
 

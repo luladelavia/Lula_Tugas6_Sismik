@@ -8,6 +8,8 @@ Dalam protokol ini, perangkat dikomunikasikan dalam hubungan master-slave. Peran
 
 <img width="938" height="306" alt="image" src="https://github.com/user-attachments/assets/cf3ace5a-c76a-47dc-bcdc-e040b275d76f" />
 
+##
+
 Berikut adalah poin-poin penting mengenai SPI Arduino:
 
 - Arsitektur Master-Slave: Arduino umumnya bertindak sebagai Master yang mengendalikan Clock (SCK) dan memilih Slave menggunakan pin Slave Select (SS).
